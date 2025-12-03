@@ -1,7 +1,7 @@
 package mobile
 
 import (
-	hcore "github.com/hiddify/hiddify-core/v2/hcore"
+	hcore "github.com/RioTwWks/hiddify-core/v2/hcore"
 
 	_ "github.com/sagernet/gomobile"
 

@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	"github.com/hiddify/hiddify-core/v2/db"
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
-	hutils "github.com/hiddify/hiddify-core/v2/hutils"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/db"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
+	hutils "github.com/RioTwWks/hiddify-core/v2/hutils"
 	C "github.com/sagernet/sing-box/constant"
 	"github.com/sagernet/sing-box/option"
 )

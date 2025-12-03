@@ -3,7 +3,7 @@ package hcore
 import (
 	"sync"
 
-	"github.com/hiddify/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/config"
 	"github.com/sagernet/sing-box/experimental/libbox"
 	"github.com/sagernet/sing-box/log"
 	"github.com/sagernet/sing/common/observable"

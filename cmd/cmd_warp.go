@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/hiddify/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/config"
 	T "github.com/sagernet/sing-box/option"
 	"github.com/spf13/cobra"
 )

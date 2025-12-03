@@ -3,8 +3,8 @@ package extension
 import (
 	"encoding/json"
 
-	"github.com/hiddify/hiddify-core/extension/ui"
-	"github.com/hiddify/hiddify-core/v2/db"
+	"github.com/RioTwWks/hiddify-core/extension/ui"
+	"github.com/RioTwWks/hiddify-core/v2/db"
 	"github.com/jellydator/validation"
 	"github.com/sagernet/sing-box/log"
 	"github.com/sagernet/sing-box/option"

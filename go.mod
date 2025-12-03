@@ -1,4 +1,4 @@
-module github.com/hiddify/hiddify-core
+module github.com/RioTwWks/hiddify-core
 
 go 1.24
 

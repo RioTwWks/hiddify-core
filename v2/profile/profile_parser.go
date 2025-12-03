@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hiddify/hiddify-core/v2/hiddifyoptions"
+	"github.com/RioTwWks/hiddify-core/v2/hiddifyoptions"
 )
 
 const (

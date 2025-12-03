@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	hcore "github.com/hiddify/hiddify-core/v2/hcore"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	hcore "github.com/RioTwWks/hiddify-core/v2/hcore"
 	"github.com/sagernet/sing-box/option"
 )
 

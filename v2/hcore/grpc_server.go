@@ -15,14 +15,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
-	"github.com/hiddify/hiddify-core/v2/hello"
-	hutils "github.com/hiddify/hiddify-core/v2/hutils"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
+	"github.com/RioTwWks/hiddify-core/v2/hello"
+	hutils "github.com/RioTwWks/hiddify-core/v2/hutils"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 
-	"github.com/hiddify/hiddify-core/v2/db"
+	"github.com/RioTwWks/hiddify-core/v2/db"
 	_ "google.golang.org/grpc/encoding/gzip"
 )
 

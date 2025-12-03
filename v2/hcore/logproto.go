@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
 	"github.com/sagernet/sing-box/log"
 	"github.com/sagernet/sing/common/observable"
 	"google.golang.org/grpc"

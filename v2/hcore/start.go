@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	"github.com/hiddify/hiddify-core/v2/db"
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
-	service_manager "github.com/hiddify/hiddify-core/v2/service_manager"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/db"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
+	service_manager "github.com/RioTwWks/hiddify-core/v2/service_manager"
 	box "github.com/sagernet/sing-box"
 	"github.com/sagernet/sing-box/experimental/libbox"
 )

@@ -3,8 +3,8 @@ package hcore
 import (
 	"context"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
 	"github.com/sagernet/sing/common"
 )
 

@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	"github.com/hiddify/hiddify-core/v2/db"
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/db"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
 	adapter "github.com/sagernet/sing-box/adapter"
 	"github.com/sagernet/sing-box/common/conntrack"
 	"github.com/sagernet/sing-box/experimental/clashapi"

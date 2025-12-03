@@ -11,7 +11,7 @@ import (
 	C "github.com/sagernet/sing-box/constant"
 
 	// "github.com/bepass-org/wireguard-go/warp"
-	"github.com/hiddify/hiddify-core/v2/db"
+	"github.com/RioTwWks/hiddify-core/v2/db"
 
 	"github.com/sagernet/sing-box/option"
 	T "github.com/sagernet/sing-box/option"

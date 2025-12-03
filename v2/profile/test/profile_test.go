@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hiddify/hiddify-core/v2/profile"
+	"github.com/RioTwWks/hiddify-core/v2/profile"
 )
 
 func TestAddByContent(t *testing.T) {

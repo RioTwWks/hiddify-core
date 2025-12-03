@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	hcommon "github.com/hiddify/hiddify-core/v2/hcommon"
+	hcommon "github.com/RioTwWks/hiddify-core/v2/hcommon"
 	"github.com/sagernet/sing-box/adapter"
 	"github.com/sagernet/sing-box/outbound"
 	"github.com/sagernet/sing/service"

@@ -8,11 +8,11 @@ import (
 	runtimeDebug "runtime/debug"
 	"time"
 
-	"github.com/hiddify/hiddify-core/v2/config"
-	"github.com/hiddify/hiddify-core/v2/db"
-	"github.com/hiddify/hiddify-core/v2/hcommon"
-	"github.com/hiddify/hiddify-core/v2/hutils"
-	"github.com/hiddify/hiddify-core/v2/service_manager"
+	"github.com/RioTwWks/hiddify-core/v2/config"
+	"github.com/RioTwWks/hiddify-core/v2/db"
+	"github.com/RioTwWks/hiddify-core/v2/hcommon"
+	"github.com/RioTwWks/hiddify-core/v2/hutils"
+	"github.com/RioTwWks/hiddify-core/v2/service_manager"
 
 	B "github.com/sagernet/sing-box"
 	"github.com/sagernet/sing-box/common/urltest"
