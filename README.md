@@ -6,7 +6,7 @@ To Run our docker image see https://github.com/RioTwWks/hiddify-core/pkgs/contai
 
 Docker
 ```
-docker pull ghcr.io/RioTwWks/hiddify-core:latest
+docker pull ghcr.io/riotwwks/hiddify-core:latest
 ```
 
 Docker Compose
