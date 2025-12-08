@@ -25,7 +25,7 @@ An extension is something that can be added to hiddify application by a third pa
 
 This extension will be shown in all Hiddify Platforms such as Android/macOS/Linux/Windows/iOS
 
-[Create an extension](https://github.com/hiddify/hiddify-app-example-extension)
+[Create an extension](https://github.com/RioTwWks/hiddify-app-example-extension)
 
 Features and Road map:
 
