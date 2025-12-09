@@ -150,7 +150,7 @@ require (
 	lukechampine.com/blake3 v1.4.0 // indirect
 )
 
-replace github.com/sagernet/sing-box => github.com/RioTwWks/hiddify-sing-box v0.0.0-20251209173335-a762893f7a5c
+replace github.com/sagernet/sing-box => github.com/RioTwWks/hiddify-sing-box v0.0.0-20251209174438-1fe4276c69a6
 
 // replace github.com/sagernet/sing-box => ../../hiddify-sing-box
 
