@@ -10,7 +10,7 @@ require (
 	github.com/jellydator/validation v1.1.0
 	github.com/kardianos/service v1.2.2
 	github.com/sagernet/gomobile v0.1.4
-	github.com/sagernet/sing v0.5.2
+	github.com/sagernet/sing v0.6.9
 	github.com/sagernet/sing-box v1.8.9
 	github.com/sagernet/sing-dns v0.3.0
 	github.com/spf13/cobra v1.8.1
@@ -30,7 +30,6 @@ require (
 
 require (
 	github.com/DataDog/zstd v1.4.1 // indirect
-	github.com/biter777/countries v1.7.5 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cosmos/gorocksdb v1.2.0 // indirect
@@ -39,6 +38,7 @@ require (
 	github.com/dgraph-io/ristretto v0.0.3-0.20200630154024-f66de99634de // indirect
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
+	github.com/go-chi/cors v1.2.1 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
@@ -46,13 +46,12 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/mdlayher/netlink v1.7.2 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
-	github.com/metacubex/tfo-go v0.0.0-20241006021335-daedaf0ca7aa // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/quic-go/quic-go v0.50.0 // indirect
 	github.com/rs/cors v1.7.0 // indirect
-	github.com/sagernet/cors v1.2.1 // indirect
 	github.com/sagernet/fswatch v0.1.1 // indirect
 	github.com/sagernet/nftables v0.3.0-beta.4 // indirect
+	github.com/sagernet/tfo-go v0.0.0-20231209031829-7b5343ac1dc6 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	nhooyr.io/websocket v1.8.6 // indirect
@@ -151,7 +150,7 @@ require (
 	lukechampine.com/blake3 v1.4.0 // indirect
 )
 
-replace github.com/sagernet/sing-box => github.com/RioTwWks/hiddify-sing-box v1.8.8.h4-20251208181114-46f1001b1e52
+replace github.com/sagernet/sing-box => github.com/RioTwWks/hiddify-sing-box v0.0.0-20251208201114-46f1001b1e52
 
 // replace github.com/sagernet/sing-box => ../../hiddify-sing-box
 
@@ -162,3 +161,9 @@ replace github.com/sagernet/wireguard-go => github.com/hiddify/wireguard-go v0.0
 replace github.com/bepass-org/warp-plus => github.com/hiddify/warp-plus v0.0.0-20240717223357-4f3122e0d11d
 
 replace github.com/hiddify/ray2sing => github.com/RioTwWks/ray2sing v0.0.0-20251208194352-57d79d7efb9b
+
+replace nhooyr.io/websocket => github.com/nhooyr/websocket v1.8.6
+
+replace github.com/lyft/protoc-gen-validate => github.com/bufbuild/protoc-gen-validate v0.0.13
+
+replace github.com/sagernet/smux => github.com/sagernet/smux v0.0.0-20250505013534-e94cfacf2041
